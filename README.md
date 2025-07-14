@@ -41,5 +41,7 @@ A real-time pose tracking app using **MediaPipe**, **OpenCV**, and **Python** â€
    ```bash
    git clone https://github.com/Adityaraj2428/pose-tracker.git
    cd pose-tracker
-2. pip install -r requirements.txt
-3. python sourcecode.py
+2.Install dependencies
+pip install -r requirements.txt
+3.Run the app
+python sourcecode.py
